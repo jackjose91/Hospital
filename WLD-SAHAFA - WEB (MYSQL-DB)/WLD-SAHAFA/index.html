@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Waiting List Display</title>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="Style/style1.css" />
+    <script src="Scripts/moment.js"></script>
+    <script src="Scripts/Script.js"></script>
+    <script src="Scripts/WebApi.js"></script>
+</head>
+<body>
+    <div class="top-panel">
+        <img class="logo1" src="IMAGES/COMPANY_LOGO/LOGO3.png" alt="Company Logo 1" />
+        <span id="current-time" class="current-time"></span>
+    </div>
+
+    <div class="video-grid-container">
+
+        <div class="video-container">
+            <!--<video id="videoPlayer" src="VIDEO/Advertisement/V1.mp4" controls="controls" autoplay muted></video>-->
+            <video id="videoPlayer" controls autoplay muted></video>
+            <img id="imagePlayer" />
+        </div>
+
+        <div class="grid-section" id="divSection">
+        </div>
+    </div>
+    <button id="start" class="btn btn-success mt-5 me-3">Start</button>
+
+</body>
+</html>

@@ -1,0 +1,106 @@
+﻿    /* CSS styles for top panel */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        overflow: hidden;
+    }
+
+    .content-container {
+        height: calc(100vh - 100px); /* Adjust the height based on your top panel height */
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .top-panel {
+        background-color: #f2f2f2;
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    height: 38px;
+}
+
+    .logo1 {
+        margin-right: 10px;
+        height: 50px; /* Adjust the height as needed */
+    }
+
+    .heading {
+        font-size: 24px;
+        font-weight: bold;
+        flex-grow: 1;
+        text-align: center;
+    }
+
+    .current-time {
+        font-size: 18px;
+        margin-left: 10px;
+    }
+
+    .video-grid-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-top: 20px;
+        padding: 0 20px;
+        width: 98%;
+        height: 70vh;
+        margin-left: 0; /* Remove the left margin */
+    }
+
+    .video-container {
+        width: calc(60% + 40%); /* Adjust the width based on the grid width */
+        height: 100%;
+        margin-bottom: 20px;
+        margin-right: 20px; /* Add a right margin for the gap */
+    }
+
+    .video-container video {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+
+    #videoPlayer,
+    #imagePlayer {
+        max-width: 100%;
+        height: auto;
+        display: none;
+    }
+
+    .grid-section {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        gap: 5px; /* Adjust the gap between grid items as desired */
+        width: 80%; /* Adjust the width of the grid section as needed */
+        margin: 0 auto; /* Center the grid section horizontally */
+    }
+
+    .grid-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #e3f2fd; /* Light blue background color for grid items */
+        padding: 20px;
+        text-align: center;
+    }
+
+        .grid-item:nth-child(4n-3),
+        .grid-item:nth-child(4n-2) {
+            background-color: #1976d2; /* Medium dark blue background color for odd rows */
+            color: #fff; /* White text color for odd rows */
+        }
+
+        .grid-item:nth-child(4n-1),
+        .grid-item:nth-child(4n) {
+            background-color: #bbdefb; /* Light blue background color for even rows */
+        }
+
+    .token,
+    .counter {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }

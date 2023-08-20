@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#start").click(function () {
+                console.log('hi');
+                speech.text = "Token No. 1001 go to Counter No. 1"
+                window.speechSynthesis.speak(speech);
+            });
+            $("#test").click(function () {
+                $("#start").click();
+            });
+            setInterval(function () {
+                test();
+            }, 1000);
+            function test() {
+                $("#start").click();
+            }
+        });
+        //const square = document.getElementById('start')[0];
+
+        //const clickSquare = () => {
+
+        //    console.log('event listner');
+        //    //event.target.dataset.receivedAction = 'click';
+        //    //event.target.innerHTML = '<p>I\'ve been clicked!</p>';
+        //}
+        //square.addEventListener('click', clickSquare, false);
+
+    </script>
+</head>
+<body>
+    <button id="start" class="btn btn-success mt-5 me-3">Start</button>
+    <button id="test" class="btn btn-success mt-5 me-3">Test</button>
+
+</body>
+<script src="Scripts/textToSpeech.js"></script>
+
+</html>

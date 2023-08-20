@@ -1,0 +1,500 @@
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\ApplicationInsights.config
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\csc.exe
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\System.Collections.Immutable.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\vbc.exe
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe.config
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\WLD-SAHAFA.dll.config
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\WLD-SAHAFA.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\WLD-SAHAFA.pdb
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Antlr3.Runtime.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\EntityFramework.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\EntityFramework.SqlServer.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.Web.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Web.Infrastructure.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Newtonsoft.Json.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Owin.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\System.Web.Optimization.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\System.Web.Providers.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\WebGrease.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.Web.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\System.Web.Optimization.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Antlr3.Runtime.pdb
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Newtonsoft.Json.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\EntityFramework.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\EntityFramework.SqlServer.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\System.Web.Providers.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.dll
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.pdb
+c:\users\suhail.ajms\documents\visual studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\bin\MySql.Data.dll
+C:\Users\suhail.AJMS\Documents\Visual Studio 2015\Projects\WLD-SAHAFA\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csprojResolveAssemblyReference.cache
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\ApplicationInsights.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\csc.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\vbc.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.dll.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.pdb
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Antlr3.Runtime.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.SqlServer.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Web.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\MySql.Data.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Newtonsoft.Json.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Optimization.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Providers.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WebGrease.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Web.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Optimization.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Antlr3.Runtime.pdb
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Newtonsoft.Json.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.SqlServer.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Providers.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.pdb
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csprojResolveAssemblyReference.cache
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\ApplicationInsights.config
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\csc.exe
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\vbc.exe
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.dll.config
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.pdb
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Antlr3.Runtime.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\AspNet.ScriptManager.jQuery.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.SqlServer.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Web.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\MySql.Data.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Newtonsoft.Json.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Owin.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Optimization.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Providers.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WebGrease.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Web.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Optimization.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Antlr3.Runtime.pdb
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Newtonsoft.Json.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.SqlServer.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Providers.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.CoreCompileInputs.cache
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.CopyComplete
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.dll
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.pdb
+D:\Study\New folder\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.AssemblyReference.cache
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\ApplicationInsights.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\csc.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\vbc.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.dll.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WLD-SAHAFA.pdb
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Antlr3.Runtime.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.SqlServer.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Web.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\MySql.Data.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Newtonsoft.Json.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Optimization.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Providers.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\WebGrease.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.Web.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Optimization.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Antlr3.Runtime.pdb
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Newtonsoft.Json.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\EntityFramework.SqlServer.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\System.Web.Providers.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.pdb
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.CoreCompileInputs.cache
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.CopyComplete
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB DB\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.AssemblyReference.cache
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\ApplicationInsights.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\csc.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\vbc.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\WLD-SAHAFA.dll.config
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\WLD-SAHAFA.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\WLD-SAHAFA.pdb
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Antlr3.Runtime.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\EntityFramework.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\EntityFramework.SqlServer.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.Web.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\MySql.Data.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Newtonsoft.Json.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Owin.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Net.Http.Formatting.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Http.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Http.WebHost.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Optimization.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Providers.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\WebGrease.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.Web.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Net.Http.Formatting.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Http.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Http.WebHost.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Optimization.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Antlr3.Runtime.pdb
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Newtonsoft.Json.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\EntityFramework.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\EntityFramework.SqlServer.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Providers.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.AssemblyReference.cache
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.CoreCompileInputs.cache
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.CopyComplete
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.dll
+C:\Users\suhail.AJMS\Desktop\AMJATH\WLD\DEMO WORKS\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.pdb
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.AssemblyReference.cache
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.CoreCompileInputs.cache
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\ApplicationInsights.config
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\csc.exe
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\vbc.exe
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\WLD-SAHAFA.dll.config
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\WLD-SAHAFA.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\WLD-SAHAFA.pdb
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Antlr3.Runtime.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\AspNet.ScriptManager.jQuery.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\EntityFramework.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\EntityFramework.SqlServer.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.Web.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\MySql.Data.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Newtonsoft.Json.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Owin.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Net.Http.Formatting.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Http.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Http.WebHost.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Optimization.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Providers.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\WebGrease.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.DependencyCollector.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.Web.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AI.WindowsServer.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.ApplicationInsights.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Newtonsoft.Json.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Net.Http.Formatting.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Http.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Http.WebHost.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Optimization.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Antlr3.Runtime.pdb
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\EntityFramework.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\EntityFramework.SqlServer.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\System.Web.Providers.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.csproj.CopyComplete
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.dll
+D:\Study\New folder\WLD-SAHAFA - WEB (MYSQL-DB)\WLD-SAHAFA\obj\Debug\WLD-SAHAFA.pdb
