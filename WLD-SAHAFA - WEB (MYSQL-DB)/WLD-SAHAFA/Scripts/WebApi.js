@@ -5,7 +5,6 @@
     }, 5000);
 
     function GetCounterDetails() {
-        var old = JSON.stringify({ 'oldCounters': oldData });
         $.ajax({
             type: "POST",
             url: "Webservice.asmx/GetDetails",
@@ -16,8 +15,6 @@
                 let result = data.d
                 oldData = result.data;
                 $('#divSection').html(result.html);
-                console.log(result.textEnglish);
-                console.log(result.textArabic);
                 speechEnglish(result.textEnglish);
                 speechArabic(result.textArabic);
             }
